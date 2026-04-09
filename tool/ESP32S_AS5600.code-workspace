@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "ESP32S_AS5600",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"stm32cube-ide-clangd.path": "cube"
+	}
+}
